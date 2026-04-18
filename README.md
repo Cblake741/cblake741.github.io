@@ -141,7 +141,7 @@ nav a:hover {
     </div>
 
     <div class="card ensemble">
-        <img src="https://via.placeholder.com/200" alt="Marching Band">
+        <img src="https://i3.ytimg.com/vi_webp/MU--9IuS8Zc/maxresdefault.webp" alt="Marching Band">
         <div>
             <h3>Marching Band</h3>
             <p>A competitive ensemble combining music and visual performance during the fall season.</p>
