@@ -152,17 +152,7 @@ nav a:hover {
 <section class="section" id="calendar">
     <h2>Calendar</h2>
 
-    <!-- Google Calendar Embed -->
-    <div class="card">
-        <iframe 
-            src="https://calendar.google.com/calendar/embed?src=your_calendar_id_here&ctz=America/New_York"
-            style="border: 0" 
-            width="100%" 
-            height="600" 
-            frameborder="0" 
-            scrolling="no">
-        </iframe>
-    </div>
+ 
 
     <!-- Existing Event List -->
     <div class="card">
