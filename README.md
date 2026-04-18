@@ -15,7 +15,7 @@ body {
 
 header {
     background: #1a3c8b;
-    color: yellow;
+    color: white;
     padding: 20px;
     text-align: center;
 }
@@ -75,7 +75,7 @@ nav a:hover {
 <body>
 
 <header>
-    <h1>Imaginary High School Band</h1>
+    <h1>Marshall High School Bands</h1>
     <p>Excellence in Music Education</p>
 </header>
 
@@ -87,10 +87,7 @@ nav a:hover {
     <a href="#contact">Contact</a>
 </nav>
 
-<section class="hero" id="home">
-    <h1>Welcome to the Band Program</h1>
-    <p>Building musicianship, discipline, and community through performance.</p>
-</section>
+
 
 <section class="section">
     <div class="card">
