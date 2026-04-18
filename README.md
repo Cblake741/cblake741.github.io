@@ -1,2 +1,2 @@
-# cblake741.github.io
+# MarshallHighSchoolMarchingBand.github.io
 Marshall High School Band 
