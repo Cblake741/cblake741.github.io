@@ -38,7 +38,7 @@ nav a:hover {
 }
 
 .hero {
-    background: url('https://images.unsplash.com/photo-1511379938547-c1f69419868d') center/cover;
+    background: url('https://www.marshall.edu/band/wp-content/blogs.dir/374/files/external/a8c899af7bc0f350b0d7fa80f20032f6.png') center/cover;
     color: white;
     padding: 80px 20px;
     text-align: center;
