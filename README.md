@@ -125,7 +125,7 @@ nav a:hover {
     <h2>Ensembles</h2>
 
     <div class="card ensemble">
-        <img src="https://via.placeholder.com/200" alt="Concert Band">
+        <img src="https://www.marshall.edu/band/files/MAR_4908-scaled-e1701204634809-1024x406.jpg" alt="Concert Band">
         <div>
             <h3>Concert Band</h3>
             <p>Our primary performing ensemble focusing on traditional wind literature and technical development.</p>
