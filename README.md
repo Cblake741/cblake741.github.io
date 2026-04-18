@@ -88,8 +88,6 @@ nav a:hover {
 </nav>
 
 <section class="hero" id="home">
-    <h1></h1>
-    <p></p>
 </section>
 
 <section class="section">
