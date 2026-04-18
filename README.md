@@ -1,2 +1,2 @@
 # cblake741.github.io
-Mock Band Website
+Marshall High School Band 
