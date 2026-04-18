@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>High School Band Program</title>
+<title>Marshall High School Band Program</title>
 
 <style>
 body {
@@ -14,14 +14,14 @@ body {
 }
 
 header {
-    background: #1a3c8b;
+    background: #1f7a3a;
     color: white;
     padding: 20px;
     text-align: center;
 }
 
 nav {
-    background: #0f2a63;
+    background: #145c2a;
     display: flex;
     justify-content: center;
 }
@@ -34,7 +34,7 @@ nav a {
 }
 
 nav a:hover {
-    background: #274bb5;
+    background: #1f7a3a;
 }
 
 .hero {
@@ -42,11 +42,6 @@ nav a:hover {
     color: white;
     padding: 80px 20px;
     text-align: center;
-}
-
-.hero h1 {
-    font-size: 3em;
-    margin: 0;
 }
 
 .section {
@@ -63,8 +58,20 @@ nav a:hover {
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
+.ensemble {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.ensemble img {
+    width: 200px;
+    border-radius: 8px;
+}
+
 .footer {
-    background: #1a3c8b;
+    background: #1f7a3a;
     color: white;
     text-align: center;
     padding: 15px;
@@ -93,7 +100,15 @@ nav a:hover {
 <section class="section">
     <div class="card">
         <h2>Director’s Message</h2>
-        <p>Welcome to the Imaginary High School Band Program! Our mission is to provide students with a comprehensive musical experience through performance, collaboration, and artistic growth.</p>
+        <p>The Marshall High School Band Program exists to develop students musically, academically, and personally. We operate under a number of core ideas to achieve these goals.</p>
+        <p><strong>We believe that:</strong></p>
+        <ul>
+            <li>Every student is capable of musical growth and excellence.</li>
+            <li>Musical excellence is achieved through discipline, consistency, and teamwork.</li>
+            <li>Band is both an artistic endeavor and an exercise in teamwork and leadership.</li>
+            <li>Character development is just as important as performance quality.</li>
+            <li>A strong ensemble culture builds lifelong skills in responsibility, collaboration, and resilience.</li>
+        </ul>
     </div>
 
     <div class="card">
@@ -109,19 +124,28 @@ nav a:hover {
 <section class="section" id="ensembles">
     <h2>Ensembles</h2>
 
-    <div class="card">
-        <h3>Concert Band</h3>
-        <p>Our primary performing ensemble focusing on traditional wind literature and technical development.</p>
+    <div class="card ensemble">
+        <img src="https://via.placeholder.com/200" alt="Concert Band">
+        <div>
+            <h3>Concert Band</h3>
+            <p>Our primary performing ensemble focusing on traditional wind literature and technical development.</p>
+        </div>
     </div>
 
-    <div class="card">
-        <h3>Symphonic Band</h3>
-        <p>An advanced ensemble performing grade 4–5 repertoire with an emphasis on musical expression and precision.</p>
+    <div class="card ensemble">
+        <img src="https://via.placeholder.com/200" alt="Symphonic Band">
+        <div>
+            <h3>Symphonic Band</h3>
+            <p>An advanced ensemble performing grade 4–5 repertoire with an emphasis on musical expression and precision.</p>
+        </div>
     </div>
 
-    <div class="card">
-        <h3>Marching Band</h3>
-        <p>A competitive ensemble combining music and visual performance during the fall season.</p>
+    <div class="card ensemble">
+        <img src="https://via.placeholder.com/200" alt="Marching Band">
+        <div>
+            <h3>Marching Band</h3>
+            <p>A competitive ensemble combining music and visual performance during the fall season.</p>
+        </div>
     </div>
 </section>
 
@@ -155,14 +179,14 @@ nav a:hover {
     <h2>Contact</h2>
 
     <div class="card">
-        <p><strong>Band Director:</strong> Mr. Smith</p>
+        <p><strong>Band Director:</strong> Mr. Blake</p>
         <p><strong>Email:</strong> band@school.edu</p>
         <p><strong>Phone:</strong> (555) 123-4567</p>
     </div>
 </section>
 
 <div class="footer">
-    <p>© 2026 Imaginary High School Band Program</p>
+    <p>© 2026 Marshall High School Band Program</p>
 </div>
 
 </body>
