@@ -87,7 +87,10 @@ nav a:hover {
     <a href="#contact">Contact</a>
 </nav>
 
-
+<section class="hero" id="home">
+    <h1></h1>
+    <p></p>
+</section>
 
 <section class="section">
     <div class="card">
