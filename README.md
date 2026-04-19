@@ -173,7 +173,11 @@ nav a:hover {
             <li>Practice Logs</li>
             <li>Scale Sheets</li>
             <li>Audition Materials</li>
-            <li>Handbook (PDF)</li>
+            <li>
+    <a href="https://docs.google.com/document/d/1t_QF0rDhWdAXP9z-t9yUoiQ-uS3tSU7-uFFAqwicSk0/edit?usp=sharing" target="_blank">
+        Handbook (PDF)
+    </a>
+</li>
         </ul>
     </div>
 </section>
