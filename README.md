@@ -156,7 +156,7 @@ nav a:hover {
 
     <!-- Existing Event List -->
     <div class="card">
-        <p>Upcoming Events:</p>
+        <p>Upcoming Events:(Full Calendar of Events can be found in student handbook) </p>
         <ul>
             <li>May 10 – Spring Concert</li>
             <li>June 1 – Graduation Ceremony Performance</li>
