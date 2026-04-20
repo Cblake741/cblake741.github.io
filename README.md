@@ -82,7 +82,7 @@ nav a:hover {
 <body>
 
 <header>
-    <h1>Marshall High School Bands</h1>
+    <h1>Marshall High School Band</h1>
     <p>Excellence in Music Education</p>
 </header>
 
